@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fourlogos/static/css/main.477ba0c1.css",
+    "main.js": "/fourlogos/static/js/main.58476541.js",
+    "static/js/787.d1af500f.chunk.js": "/fourlogos/static/js/787.d1af500f.chunk.js",
+    "static/media/qazaqWorkPlatBack.png": "/fourlogos/static/media/qazaqWorkPlatBack.2aeee5dff0fd32a26a56.png",
+    "static/media/posTechBack.png": "/fourlogos/static/media/posTechBack.9b3bd3e7f3461e984215.png",
+    "static/media/kassaRedLogo.svg": "/fourlogos/static/media/kassaRedLogo.f9c42c81b3432866cd1ddeaedc4c4ceb.svg",
+    "static/media/kassaRedBack.png": "/fourlogos/static/media/kassaRedBack.a5684101600026cd98ba.png",
+    "static/media/DYCgroupLogo.svg": "/fourlogos/static/media/DYCgroupLogo.4ac9e3c7ff1542e8e2c6b694944dd3ea.svg",
+    "static/media/qazaqWorkPlatLogo.svg": "/fourlogos/static/media/qazaqWorkPlatLogo.21b5100e77425c3ed0e3b66cc151a9a8.svg",
+    "static/media/pizzaLogo.svg": "/fourlogos/static/media/pizzaLogo.cbc7eba8193cfb5b7b9c57f5a48113bb.svg",
+    "static/media/posTechLogo.svg": "/fourlogos/static/media/posTechLogo.a3a9357a2ace54ee91d5dcc6ff624cb6.svg",
+    "index.html": "/fourlogos/index.html",
+    "main.477ba0c1.css.map": "/fourlogos/static/css/main.477ba0c1.css.map",
+    "main.58476541.js.map": "/fourlogos/static/js/main.58476541.js.map",
+    "787.d1af500f.chunk.js.map": "/fourlogos/static/js/787.d1af500f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477ba0c1.css",
+    "static/js/main.58476541.js"
+  ]
+}
